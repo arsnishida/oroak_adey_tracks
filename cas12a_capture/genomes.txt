@@ -1,2 +1,2 @@
 genome hg19
-trackDb hg19/trackDb.txt
+trackDb https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/trackDb.txt?raw=true

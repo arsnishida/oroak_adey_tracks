@@ -1,6 +1,6 @@
 hub Cas12a-Capture Targeted Sequencing
 shortLabel Cas12a-Capture Targeted Sequencing
 longLabel Cas12a-Capture targeted sequencing with optimized guides
-genomesFile genomes.txt
+genomesFile https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/genomes.txt?raw=true
 email nishidaa@ohsu.edu
 descriptionUrl blank.html

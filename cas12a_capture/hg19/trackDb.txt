@@ -1,0 +1,59 @@
+ktrack Cas12a_Capture_sub10M_unnormalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_10M_pairs.bam.unnorm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub10M_unnormalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 10M, unnormalized coverage
+type bigWig
+
+track Cas12a_Capture_sub20M_unnormalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_20M_pairs.bam.unnorm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub20M_unnormalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 20M, unnormalized coverage
+type bigWig
+
+track Cas12a_Capture_sub30M_unnormalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_30M_pairs.bam.unnorm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub30M_unnormalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 30M, unnormalized coverage
+type bigWig
+
+track Cas12a_Capture_sub40M_unnormalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_40M_pairs.bam.unnorm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub40M_unnormalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 40M, unnormalized coverage
+type bigWig
+
+track Cas12a_Capture_unnormalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged.bam.unnorm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_unnormalized
+longLabel Cas12a capture datasets merged with optimized guides, unnormalized coverage
+type bigWig
+
+track Cas12a_Capture_sub10M_normalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_10M_pairs.bam.norm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub10M_normalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 10M, normalized coverage
+type bigWig
+
+track Cas12a_Capture_sub20M_normalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_20M_pairs.bam.norm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub20M_normalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 20M, normalized coverage
+type bigWig
+
+track Cas12a_Capture_sub30M_normalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_30M_pairs.bam.norm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub30M_normalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 30M, normalized coverage
+type bigWig
+
+track Cas12a_Capture_sub40M_normalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged_40M_pairs.bam.norm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_sub40M_normalized
+longLabel Cas12a capture datasets merged with optimized guides, downsampled to 40M, normalized coverage
+type bigWig
+
+track Cas12a_Capture_normalized
+bigDataUrl https://github.com/arsnishida/oroak_adey_tracks/blob/main/cas12a_capture/hg19/all_opool_merged.bam.norm.bigwig.sub.bigwig?raw=true
+shortLabel Cas12a_Capture_normalized
+longLabel Cas12a capture datasets merged with optimized guides, normalized coverage
+type bigWig
