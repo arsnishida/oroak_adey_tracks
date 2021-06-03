@@ -1,0 +1,6 @@
+hub Cas12a-Capture Targeted Sequencing
+shortLabel Cas12a-Capture Targeted Sequencing
+longLabel Cas12a-Capture targeted sequencing with optimized guides
+genomesFile genomes.txt
+email nishidaa@ohsu.edu
+descriptionUrl blank.html
